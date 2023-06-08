@@ -14,9 +14,9 @@ Mantenimientos
 - Presentacion (Productos)
 - Grupos de Trabajo (RRHH)
 
+- Clientes
 
 Ventas
-- Clientes
 - Facturacion
 - Pedidos
 - Notas de entrega
@@ -43,5 +43,64 @@ RRHH
 - Trabajadores
 
 
+---
 
+Crear un registro en el home para el multi tenancy
+Crear un landing page para la demostracion.
+
+
+--- DB:
+
+client (Clientes):
+- id
+- first_name
+- last_name
+- dni
+- address
+- country
+- state
+- city
+- zip
+- date_of_birth
+- sex
+- phone
+- email
+- enabled
+
+
+// Productos
+
+product (Productos):
+- id
+- name
+- description
+- pucharse
+- model
+- part_number
+- category_id
+- serial
+- qty
+- color
+- mark
+- purchase_price
+- enabled
+
+
+
+
+
+// Mantenimientos
+
+bank (Bancos):
+- id
+- name
+- description
+- enabled
+
+tax (Impuestos):
+- id 
+- name
+- description
+- amount
+- enabled
 
