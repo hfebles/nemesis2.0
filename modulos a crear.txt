@@ -1,0 +1,47 @@
+
+Mantenimientos
+- Bancos
+- Impuestos
+- *Menus
+- Permisos
+- Usuarios
+- *Fletes
+- *Zonas
+- Plan Contable
+- Almacenes
+- Categorias (Productos)
+- Unidades (Productos)
+- Presentacion (Productos)
+- Grupos de Trabajo (RRHH)
+
+
+Ventas
+- Clientes
+- Facturacion
+- Pedidos
+- Notas de entrega
+
+Compras
+- Ordenes de compras
+- Compras
+- Proveedores
+
+Contabilidad
+- Retenciones de IVA (compras)
+- Asientos Contables
+- Pagos Recibidos
+- Pagos Realizados
+
+Almacen
+- Productos
+
+
+Despachos
+- Lista Despachos
+
+RRHH
+- Trabajadores
+
+
+
+
